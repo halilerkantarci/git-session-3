@@ -1,2 +1,2 @@
 # git-session-3
-aciklama
+aciklamayi düzelttim
